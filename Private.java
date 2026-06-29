@@ -14,6 +14,8 @@ class Students{
             rno = x;
         }
     }
+    //get means you want to do
+//setter means you want to set
     //getter setter is used to access private variable or function
     public class Private {
         public static void main(String[] args) {

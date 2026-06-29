@@ -1,12 +1,13 @@
 
 
 
-import java.sql.Struct;
 
 public class Constructor {
-        public static class Car{
-            int price; // 0
-            String name; // null
+    public static class Car{
+
+import java.sql.Struct;            int price; // 0
+            String name;// null
+        //constructor overloading
             Car(){ // default constructor
 
             }
