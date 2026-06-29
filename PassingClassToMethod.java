@@ -8,8 +8,10 @@ public class PassingClassToMethod {
         System.out.println(c.seats);
 
     }
+    //passing class to method
     private static void change(Car c)
     {
+        //changing value
     c.seats=5;
     }
    public  static  class Car{
