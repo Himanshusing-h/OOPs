@@ -5,7 +5,7 @@
 public class Constructor {
     public static class Car{
 
-import java.sql.Struct;            int price; // 0
+         int price; // 0
             String name;// null
         //constructor overloading
             Car(){ // default constructor
