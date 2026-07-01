@@ -31,7 +31,7 @@ public class ComplexNumber {
       int x;
         int y;
         //this method is initializing global variable and also rewriting sum and mul value
-      method(int x,int y)
+     method(int x,int y)
         {
             //global wale x mai local wale x ka value initialize krdo
             this.x=x;
